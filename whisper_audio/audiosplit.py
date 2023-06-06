@@ -232,7 +232,3 @@ if __name__ == '__main__':
 
         if args.verbose:
             sys.stderr.write(f' {i+1} segments created.\n')
-
-
-
-
